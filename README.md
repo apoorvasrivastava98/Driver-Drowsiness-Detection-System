@@ -20,7 +20,7 @@ Operating System:</br>
 
 ### HARDWARE REQUIREMENTS
 Laptop with :</br>
-Core – i3
+Core – i3 </br>
 RAM – 4GB
 Webcam
 
