@@ -10,7 +10,7 @@ Driver drowsiness detection is a car safety technology which prevents accidents 
 Python:</br>
 • Python 3 </br>
 Libraries: </br>
-• Numpy 
+• Numpy </br>
 • Scipy 
 • Playsound 
 • Dlib 
